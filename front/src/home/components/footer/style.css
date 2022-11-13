@@ -1,0 +1,26 @@
+.titulo-footer {
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    padding: 10px;
+    margin: 10px;
+}
+
+.bg-footer {
+    background-color: black;
+    margin: auto;
+    margin-bottom: 0;
+    padding: auto;
+    padding-bottom: 20px;
+    font-size: large;
+    width: 100%;
+    margin-bottom: 0;
+}
+
+.fot-link {
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.fot-link:hover {
+    color: #FFB89C;
+}

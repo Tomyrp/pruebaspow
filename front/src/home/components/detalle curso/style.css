@@ -1,0 +1,63 @@
+
+@import url('http://fonts.cdnfonts.com/css/gagalin');
+
+.title-nombre {
+    font-size: 4rem;
+    font-weight: bold;
+    color: white;
+    font-family: 'Gagalin', sans-serif;
+    text-align: center;
+}
+.text-modalidad, .text-aprender{
+    color: white;
+    font-size: 2rem;
+}
+
+#principal{
+    background-color:  #3B8479;
+    height: 100%;
+    position: absolute;
+    font-family: 'Montserrat', sans-serif;
+}
+.cabecera{
+    position: relative;
+    background-color:  #3B8479;
+}
+
+.button{
+    margin-bottom: 20px;
+    border-radius: 0.5em;
+    border-color: black;
+    background-color: #B3E6A9;
+    font-size: 25px;
+    color: #4D6066;
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+    max-width: 350px;
+    max-height: 50px;
+    display: flex;
+    margin: auto;
+}
+
+.btn-register{
+    padding: 30px;
+}
+
+.bg-none {
+    background-color: transparent;
+    border-color: transparent;
+    font-size: 25px;
+    color: white;
+}
+.bg-none:first-child{
+    color: white;
+    font-weight: bold;
+    font-size: 25px;
+    padding: 0;
+    margin: 0;
+}
+
+
+
+
+
